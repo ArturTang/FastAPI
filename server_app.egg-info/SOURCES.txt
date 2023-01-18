@@ -1,5 +1,6 @@
 setup.py
 app/main.py
+scripts/create_db.py
 server_app.egg-info/PKG-INFO
 server_app.egg-info/SOURCES.txt
 server_app.egg-info/dependency_links.txt
